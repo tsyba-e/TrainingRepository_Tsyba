@@ -1,10 +1,10 @@
 <root>
 	<Reward day="1" type="Coins" count="500"/>
-	<Reward day="2" type="UnlimitedLives" count="15"/>
+	<Reward day="2" type="LightningBoost" count="15"/>
 	<Reward day="3" type="BombAndLineBoost" count="1"/>
-	<Reward day="4" type="LightningBoost" count="1"/>
+	<Reward day="4" type="DoublePlanesBoost" count="1"/>
 	<Reward day="5" type="HammerBonus" count="1"/>
-	<Reward day="6" type="DoublePlanesBoost" count="1"/>
+	<Reward day="6" type="LightningBoost" count="1"/>
 	<Reward day="7" type="UnlimitedLives" count="60"/>
-	<Reward day="7" type="LightningBoost" count="1"/>
+	<Reward day="7" type="DoublePlanesBoost" count="1"/>
 </root>
