@@ -1,0 +1,18 @@
+<root>
+	<ABTests>
+		<abtest id="ab_button_color"
+ 			status="1"
+ 			rules='
+ 				{
+ 				"cond":[{"m3lvl":{"ge":10}},{"cheater":false},["NOT", {"in_ab":["ab_panel_color"]}]],
+ 				"stay_cond":{"m3lvl":{"ge":10}},
+ 				"groups":
+ 					{
+ 					"control": {"weight": 50, "params": {}},
+ 				   	"test": {"weight": 50, "params": {"AB_ButtonColor" : "test"}}
+ 					}
+ 				}'
+ 			origin="xml"
+ 		/>
+	</ABTests>
+</root>
