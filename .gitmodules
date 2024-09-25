@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Tsyba"]
+	path = SubmoduleRepository_Tsyba
+	url = https://github.com/tsyba-e/SubmoduleRepository_Tsyba
